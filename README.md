@@ -1,12 +1,12 @@
 # COP_5537_Network_Optimization
 
-- Assignment 1: Implementing Dijkstra's Algorithm
+**Assignment 1:** Implementing Dijkstra's Algorithm
 
-- Assignment 2: Implementing Fleury's Algorithm
+**Assignment 2:** Implementing Fleury's Algorithm
 
-- Assignment 3: Implementing Page Rank Algorithm
+**Assignment 3:** Implementing Page Rank Algorithm
 
-- Final Project:  
+**Final Project:** 
 
 <ins>Title: </ins>Analyzing Web Graph Dataset using Ranking,Clustering and Centrality Metrics  
 
